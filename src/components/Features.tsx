@@ -10,7 +10,7 @@ const Features = () => {
       <h2 className="text-3xl font-bold sm:text-4xl text-gray-200">Join the Waitlist Program </h2>
 
       <p className="mt-4 text-gray-400 py-3">
-      Secure your sport within our main launch waitlist for ORION, a groundbreaking 
+      Secure your spot within our main launch waitlist for ORION, a groundbreaking 
       device that combines the power of blockchain with renewable energy. <br /> 
       Gain early access to a resilient and sustainable technology designed to operate anywhere, 
       from urban centers to the most remote locations.
